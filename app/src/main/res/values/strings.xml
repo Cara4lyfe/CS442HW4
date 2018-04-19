@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS442HW4</string>
+    <string name="textview">TextView</string>
+    <string name="item">Item</string>
+</resources>
